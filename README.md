@@ -5,10 +5,10 @@ Full-stack developer building offline-first and data-driven systems. Background 
 **Stack:** TypeScript · React · Node.js/Express · FastAPI · PostgreSQL · Supabase · SQLite
 
 **Currently building**
-- 🏨 **LexHotel Suite** — offline-first hotel management system (Electron, React, Node.js, PostgreSQL cloud sync)
-- 🩺 **Support Care Management** — FastAPI + Next.js platform for care-staffing, with GPS visit tracking and shift scheduling
-- 🌊 **OMSP Platform** — institutional platform + geospatial environmental data initiative (Next.js, Supabase, PostGIS)
-- 📊 **DataLens** — analytics SaaS with 56+ statistical operations (React, FastAPI)
+- 🏨 **LexHotel Suite** : offline-first hotel management system (Electron, React, Node.js, PostgreSQL cloud sync)
+- 🩺 **Support Care Management** : FastAPI + Next.js platform for care-staffing, with GPS visit tracking and shift scheduling
+- 🌊 **OMSP Platform** : institutional platform + geospatial environmental data initiative (Next.js, Supabase, PostGIS)
+- 📊 **DataLens** : analytics SaaS with 56+ statistical operations (React, FastAPI)
 
 **Also familiar with:** Docker, Kubernetes, GraphQL, CI/CD pipelines
 
